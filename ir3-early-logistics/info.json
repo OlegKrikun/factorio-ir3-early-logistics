@@ -1,0 +1,15 @@
+{
+  "name": "ir3-early-logistics",
+  "version": "1.0.0",
+  "title": "IR3: Early logistics system",
+  "author": "OlegKrikun",
+  "homepage": "https://github.com/OlegKrikun/factorio-ir3-early-logistics",
+  "contact": "oleg@krikun.ru",
+  "description": "Allowing access to logistics system earlier in Industrial Revolution 3",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 0.18.3",
+    "IndustrialRevolution3 >= 3.0.6",
+    "? aai-containers >= 0.2.11"
+  ]
+}
